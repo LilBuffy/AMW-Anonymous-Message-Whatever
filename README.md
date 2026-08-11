@@ -1,6 +1,6 @@
 # 💬 My Anonymous Message Website Thingy
 
-A minimalist **black and white anonymous messaging website** where people can send messages without creating an account, logging in, or providing a username or password.
+A fucking minimalist **black and white anonymous messaging website** where people can send messages without creating an account, logging in, or providing a username or password.
 
 Basically:
 
