@@ -16,40 +16,9 @@ Tomorrow? **ПИЗДЕЦ KNOWS.**
 
 Visitors don't immediately get slapped with a boring message form.
 
-Instead:
+Instead (no no no spoilers):
 
 **Blank screen → dramatic intro → random questions → message form**
-
-First:
-
-> "Wow... you clicked my link."
-
-Then:
-
-**Why did you click my link?**
-
-Possible answers:
-
-* Curiosity
-* Boredom
-* Being nosy
-* Someone sent the link
-* etc.
-
-Then:
-
-**Where did you find my link?**
-
-Possible sources:
-
-* Instagram
-* Facebook
-* TikTok
-* Discord
-* Messenger
-* Friend
-* Group chat
-* etc.
 
 Then finally:
 
