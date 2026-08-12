@@ -71,9 +71,7 @@ It can display:
 * Submitted links
 * Basic technical information
 
-Messages can also be permanently deleted.
-
-Useful for deleting spam, unwanted messages, and general **internet bullshit**.
+Messages can also be permanently deleted. (Useful for deleting spam, unwanted messages, and general **internet bullshit**)
 
 ## 🕵️ Technical Information
 
@@ -88,9 +86,7 @@ This information is only available to the administrator.
 
 **Hehe. Only ME.**
 
-Because of this, the website does **not** claim to provide absolute anonymity.
-
-It's anonymous in the sense that users don't need an account or directly identifying information to send a message.
+Because of this, the website does **not** claim to provide absolute anonymity. It's anonymous in the sense that users don't need an account or directly identifying information to send a message.
 
 ## 🔐 Security
 
@@ -120,8 +116,6 @@ Designed for:
 * Laptop
 * Tablet
 * Mobile
-
-Same black and white aesthetic across different screen sizes.
 
 ## 🛠️ Tech Stack
 
