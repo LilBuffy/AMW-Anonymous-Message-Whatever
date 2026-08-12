@@ -47,22 +47,6 @@ Uploaded files are validated and restricted to reduce dangerous uploads.
 
 Because letting random internet goblins upload literally anything would be **absolute govno**.
 
-## ✨ Interactive Submission
-
-After sending a message, the website doesn't just say:
-
-> "Message sent."
-
-Nah.
-
-It has animations and a custom confirmation sequence.
-
-Because apparently:
-
-**normal confirmation = boring**
-
-**unnecessary animation = peak web development**
-
 ## 🛡️ Anti Spam
 
 The system includes:
@@ -76,7 +60,7 @@ The system includes:
 
 ## 👨‍💻 Private Admin Dashboard
 
-The owner  (WHICH IS ME or YOU) has a private dashboard for managing received messages.
+The owner (WHICH IS ME or YOU) has a private dashboard for managing received messages.
 
 It can display:
 
