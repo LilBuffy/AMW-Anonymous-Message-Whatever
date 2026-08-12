@@ -1,14 +1,6 @@
 # 💬 My Anonymous Message Website Thingy
 
-A fucking **black and white anonymous messaging website** where people can send messages without creating an account, logging in, or entering a username or password.
-
-Basically:
-
-**Click link → answer random questions → send anonymous message → profit?**
-
-No profit.
-
-Just messages.
+A fucking **black and white anonymous messaging website** where people can send me messages without creating an account, logging in, or entering a username or password.
 
 ## 🟢 Project Status
 
@@ -42,7 +34,7 @@ Possible answers:
 * Boredom
 * Being nosy
 * Someone sent the link
-* Other
+* etc.
 
 Then:
 
@@ -57,11 +49,11 @@ Possible sources:
 * Messenger
 * Friend
 * Group chat
-* Somewhere else
+* etc.
 
 Then finally:
 
-**Send some anonymous shit.**
+**Send me some anonymous shit.**
 
 ## 💬 Anonymous Messaging
 
@@ -73,12 +65,6 @@ Visitors can send messages without:
 * Providing an email
 
 Just type whatever the fuck you want and send it.
-
-**No account.**
-
-**No password.**
-
-**No bullshit.**
 
 ## 📎 Attachments
 
@@ -108,8 +94,6 @@ Because apparently:
 
 **unnecessary animation = peak web development**
 
-**BLYAT, WE NEED DRAMA.**
-
 ## 🛡️ Anti Spam
 
 The system includes:
@@ -121,11 +105,9 @@ The system includes:
 * Basic bot protection
 * Server side validation
 
-Basically, it tries to stop some **pizdets machine** from submitting the same shit 500 times.
-
 ## 👨‍💻 Private Admin Dashboard
 
-The owner has a private dashboard for managing received messages.
+The owner  (WHICH IS ME or YOU) has a private dashboard for managing received messages.
 
 It can display:
 
@@ -212,35 +194,3 @@ Same black and white aesthetic across different screen sizes.
 ### Hosting
 
 * InfinityFree
-
-## 🧩 The Whole Damn Thing
-
-```text
-Visitor
-   ↓
-Intro
-   ↓
-Questions
-   ↓
-Anonymous Message
-   ↓
-PHP
-   ↓
-MySQL
-   ↓
-Private Admin Dashboard
-```
-
-That's basically the whole creature.
-
-Not a social network.
-
-Not a full NGL clone.
-
-Just my little corner of the internet where people can anonymously dump their thoughts into my database.
-
-**Black. White. Anonymous. Slightly questionable.**
-
-**Работает? Работает.**
-
-**Значит нормально.**
