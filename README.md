@@ -1,10 +1,10 @@
 # 💬 My Anonymous Message Website Thingy
 
-A fucking minimalist **black and white anonymous messaging website** where people can send messages without creating an account, logging in, or providing a username or password.
+A fucking **black and white anonymous messaging website** where people can send messages without creating an account, logging in, or entering a username or password.
 
 Basically:
 
-**Click link → answer some random questions → send anonymous message → profit?**
+**Click link → answer random questions → send anonymous message → profit?**
 
 No profit.
 
@@ -16,23 +16,27 @@ Just messages.
 
 Click me: https://zacuia.gt.tc
 
-Unlike the other dead projects in the GitHub cemetery, this one is still online.
+Unlike the other corpses rotting in my GitHub cemetery, this one is still alive.
+
+Tomorrow? **ПИЗДЕЦ KNOWS.**
 
 ## 🧠 How It Works
 
-When a visitor opens the website, they don't immediately get slapped with a boring message form.
+Visitors don't immediately get slapped with a boring message form.
 
-Instead, the website starts with a blank screen and a short interactive introduction.
+Instead:
 
-After a few seconds, a message appears:
+**Blank screen → dramatic intro → random questions → message form**
+
+First:
 
 > "Wow... you clicked my link."
 
-The visitor then answers:
+Then:
 
 **Why did you click my link?**
 
-Options include things like:
+Possible answers:
 
 * Curiosity
 * Boredom
@@ -44,7 +48,7 @@ Then:
 
 **Where did you find my link?**
 
-Possible sources include:
+Possible sources:
 
 * Instagram
 * Facebook
@@ -55,7 +59,9 @@ Possible sources include:
 * Group chat
 * Somewhere else
 
-After that, the anonymous message form appears.
+Then finally:
+
+**Send some anonymous shit.**
 
 ## 💬 Anonymous Messaging
 
@@ -66,37 +72,47 @@ Visitors can send messages without:
 * Providing a username
 * Providing an email
 
-Just type some shit and send it.
+Just type whatever the fuck you want and send it.
 
-**No account. No password. No bullshit.**
+**No account.**
+
+**No password.**
+
+**No bullshit.**
 
 ## 📎 Attachments
 
-Messages can optionally include:
+Messages can include:
 
 * Images
 * Videos
 * Links
 
-Uploaded files are validated and restricted to reduce the risk of dangerous uploads.
+Uploaded files are validated and restricted to reduce dangerous uploads.
 
-Because allowing random internet people to upload anything would be **absolute govno**.
+Because letting random internet goblins upload literally anything would be **absolute govno**.
 
 ## ✨ Interactive Submission
 
-Instead of the classic boring:
+After sending a message, the website doesn't just say:
 
 > "Message sent."
 
-the website uses animations and a custom confirmation sequence after a successful submission.
+Nah.
 
-Because apparently a simple message confirmation wasn't enough.
+It has animations and a custom confirmation sequence.
 
-**Blyat, we need ✨drama✨.**
+Because apparently:
+
+**normal confirmation = boring**
+
+**unnecessary animation = peak web development**
+
+**BLYAT, WE NEED DRAMA.**
 
 ## 🛡️ Anti Spam
 
-The system includes basic protections against spam and abusive submissions:
+The system includes:
 
 * Submission cooldowns
 * Message length limits
@@ -105,43 +121,45 @@ The system includes basic protections against spam and abusive submissions:
 * Basic bot protection
 * Server side validation
 
-Basically, it's designed to stop someone from pressing the submit button 500 times like a fucking **pizdets machine**.
+Basically, it tries to stop some **pizdets machine** from submitting the same shit 500 times.
 
 ## 👨‍💻 Private Admin Dashboard
 
-The owner has access to a private dashboard for viewing received messages.
+The owner has a private dashboard for managing received messages.
 
 It can display:
 
 * Message content
 * Date and time
-* Introductory question answers
+* Intro question answers
 * Attachments
 * Submitted links
 * Basic technical information
 
-Messages can also be permanently deleted from the dashboard.
+Messages can also be permanently deleted.
 
-Useful for removing spam, unwanted messages, or other **internet bullshit**.
+Useful for deleting spam, unwanted messages, and general **internet bullshit**.
 
 ## 🕵️ Technical Information
 
-For security and spam prevention, the system can record basic request information such as:
+For security and spam prevention, the system can record:
 
 * IP address
 * Browser / User Agent
 * Requested page
 * Time of request
 
-This information is only available to the administrator. Hehe only ME!!!!
+This information is only available to the administrator.
+
+**Hehe. Only ME.**
 
 Because of this, the website does **not** claim to provide absolute anonymity.
 
-It provides anonymous messaging from the perspective of not requiring an account or directly identifying information from the sender.
+It's anonymous in the sense that users don't need an account or directly identifying information to send a message.
 
 ## 🔐 Security
 
-The backend includes security measures such as:
+The backend includes:
 
 * PDO prepared statements
 * SQL injection protection
@@ -153,20 +171,22 @@ The backend includes security measures such as:
 * Admin authentication
 * Rate limiting
 
-Basically, some actual security instead of:
+Actual security.
+
+Not:
 
 **"trust me bro, PHP is secure."**
 
 ## 📱 Responsive Design
 
-The website is designed for:
+Designed for:
 
 * Desktop
 * Laptop
 * Tablet
-* Mobile phones
+* Mobile
 
-The interface keeps its black and white aesthetic across different screen sizes.
+Same black and white aesthetic across different screen sizes.
 
 ## 🛠️ Tech Stack
 
@@ -193,16 +213,34 @@ The interface keeps its black and white aesthetic across different screen sizes.
 
 * InfinityFree
 
-## 🧩 Overall Concept
+## 🧩 The Whole Damn Thing
 
-The whole thing is basically:
+```text
+Visitor
+   ↓
+Intro
+   ↓
+Questions
+   ↓
+Anonymous Message
+   ↓
+PHP
+   ↓
+MySQL
+   ↓
+Private Admin Dashboard
+```
 
-**Visitor → Intro → Questions → Anonymous Message → PHP → MySQL → Private Admin Dashboard**
-
-A small personal corner of the internet where people can anonymously leave a message.
+That's basically the whole creature.
 
 Not a social network.
 
 Not a full NGL clone.
 
-Just a small anonymous messaging website with a minimalist design, interactive introduction, attachments, moderation tools, and basic security.
+Just my little corner of the internet where people can anonymously dump their thoughts into my database.
+
+**Black. White. Anonymous. Slightly questionable.**
+
+**Работает? Работает.**
+
+**Значит нормально.**
