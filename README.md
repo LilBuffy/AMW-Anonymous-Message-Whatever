@@ -1,6 +1,6 @@
 # 💬 My Anonymous Message Website Thingy
 
-A fucking **black and white anonymous messaging website** where people can send me messages without creating an account, logging in, or entering a username or password.
+Isang fucking **anonymous messaging website** kung saan pwedeng mag send ng messages SA AKIN AT SA AKIN LANG TALAGA nang walang account, login, username, o password.
 
 ## 🟢 Project Status
 
@@ -8,89 +8,89 @@ A fucking **black and white anonymous messaging website** where people can send 
 
 Click me: https://zacuia.gt.tc
 
-Unlike the other corpses rotting in my GitHub cemetery, this one is still alive.
+Hindi tulad ng ibang bangkay na nabubulok sa GitHub cemetery, buhay pa ’to.
 
-Tomorrow? **ПИЗДЕЦ KNOWS.**
+Bukas? **ПИЗДЕЦ KNOWS.**
 
-## 🧠 How It Works
+## 🧠 How This Thingy Works
 
-Visitors don't immediately get slapped with a boring message form.
+Hindi agad bubungad ang boring na message form.
 
-Instead (no no no spoilers):
+Flow:
 
-**Blank screen → dramatic intro → random questions → message form**
+**Blank screen → dramatic intro → random questions → message form → anonymous shit**
 
-Then finally:
-
-**Send me some anonymous shit.**
+Tapos send na.
 
 ## 💬 Anonymous Messaging
 
-Visitors can send messages without:
+Pwede mag message nang walang:
 
-* Creating an account
-* Logging in
-* Providing a username
-* Providing an email
+* Account
+* Login
+* Username
+* Email
 
-Just type whatever the fuck you want and send it.
+Type whatever the fuck you want. Then **SEND.** (And i'll read it on my free time.)
 
 ## 📎 Attachments
 
-Messages can include:
+Pwede mag attach ng:
 
 * Images
 * Videos
 * Links
 
-Uploaded files are validated and restricted to reduce dangerous uploads.
-
-Because letting random internet goblins upload literally anything would be **absolute govno**.
+May validation at limits para hindi maging **absolute govno** ang uploads.
 
 ## 🛡️ Anti Spam
 
-The system includes:
+May:
 
-* Submission cooldowns
+* Submission cooldown
 * Message length limits
 * File size limits
-* Duplicate submission detection
+* Duplicate detection
 * Basic bot protection
 * Server side validation
 
+Para hindi gawing fucking garbage dump ng internet goblins ang website.
+
 ## 👨‍💻 Private Admin Dashboard
 
-The owner (WHICH IS ME or YOU) has a private dashboard for managing received messages.
+May private dashboard para sa owner, **AKO. IKAW. FUCKING ME.**
 
-It can display:
+Makikita ang:
 
-* Message content
-* Date and time
+* Messages
+* Date at time
 * Intro question answers
 * Attachments
 * Submitted links
 * Basic technical information
 
-Messages can also be permanently deleted. (Useful for deleting spam, unwanted messages, and general **internet bullshit**)
+Pwede ring permanenteng mag delete ng messages. Useful para sa spam at general **internet bullshit**.
 
 ## 🕵️ Technical Information
 
-For security and spam prevention, the system can record:
+Para sa security at anti spam, maaaring ma record:
 
 * IP address
 * Browser / User Agent
 * Requested page
 * Time of request
 
-This information is only available to the administrator.
+Admin lang ang makakakita.
 
-**Hehe. Only ME.**
+**Hehe. Ako lang.**
 
-Because of this, the website does **not** claim to provide absolute anonymity. It's anonymous in the sense that users don't need an account or directly identifying information to send a message.
+Kaya hindi nito kino claim na **100% anonymous**.
+
+Anonymous siya dahil walang account o direct identifying information na kailangan para makapag message.
 
 ## 🔐 Security
 
-The backend includes:
+Backend includes:
 
 * PDO prepared statements
 * SQL injection protection
@@ -102,15 +102,9 @@ The backend includes:
 * Admin authentication
 * Rate limiting
 
-Actual security.
-
-Not:
-
-**"trust me bro, PHP is secure."**
-
 ## 📱 Responsive Design
 
-Designed for:
+Designed para sa:
 
 * Desktop
 * Laptop
@@ -119,25 +113,15 @@ Designed for:
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
 * HTML5
 * CSS3
 * Vanilla JavaScript
-
-### Backend
-
 * PHP
-
-### Database
-
 * MySQL
-
-### Development
-
 * XAMPP
 * phpMyAdmin
-
-### Hosting
-
 * InfinityFree
+
+**Anonymous shit, black and white, at buhay pa rin... for now.**
+
+**Пока живой, i shall jakol now. STOP READING ME**
