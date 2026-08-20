@@ -25,7 +25,7 @@ No login.
 No username.
 No email.
 
-Type whatever the fuck you want, then **SEND.**
+Type whatever the fuck you want, then **SEND. (I'll read your message on my free time)**
 
 ## 📎 Attachments
 
