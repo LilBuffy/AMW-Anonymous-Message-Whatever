@@ -1,51 +1,43 @@
 # 💬 My Anonymous Message Website Thingy
 
-Isang fucking **anonymous messaging website** kung saan pwedeng mag send ng messages SA AKIN AT SA AKIN LANG TALAGA nang walang account, login, username, o password.
+Isang fucking **anonymous messaging website** kung saan pwedeng mag send ng messages **SA AKIN AT SA AKIN LANG TALAGA** without accounts, login, username, or password.
 
 ## 🟢 Project Status
 
 **ACTIVE / STILL ALIVE** For now...
 
-Click me: https://zacuia.gt.tc
+Hindi tulad ng ibang mga bangkay na nabubulok sa GitHub cemetery, buhay pa ’to.
 
-Hindi tulad ng ibang bangkay na nabubulok sa GitHub cemetery, buhay pa ’to.
+CLICK ME: https://zacuia.gt.tc
 
-Bukas? **ПИЗДЕЦ KNOWS.**
+🚨 IF YOUR ANTIVIRUS SAYS "DANGEROUS WEBSITE," DON'T PANIC. I'M NOT A HACKER, I'M JUST A DEVELOPER WITH QUESTIONABLE LIFE DECISIONS. ПИЗДЕЦ. 🚨
 
 ## 🧠 How This Thingy Works
 
-Hindi agad bubungad ang boring na message form.
-
-Flow:
-
 **Blank screen → dramatic intro → random questions → message form → anonymous shit**
 
-Tapos send na.
+Simple. Weird. Effective. **БЛЯТЬ.**
 
 ## 💬 Anonymous Messaging
 
-Pwede mag message nang walang:
+No account.
+No login.
+No username.
+No email.
 
-* Account
-* Login
-* Username
-* Email
-
-Type whatever the fuck you want. Then **SEND.** (And i'll read it on my free time.)
+Type whatever the fuck you want, then **SEND.**
 
 ## 📎 Attachments
 
 Pwede mag attach ng:
 
-* Images
-* Videos
-* Links
+* 🖼️ Images
+* 🎥 Videos
+* 🔗 Links
 
-May validation at limits para hindi maging **absolute govno** ang uploads.
+May validation at limits para hindi maging **ABSOLUTE GOVNO** ang uploads.
 
 ## 🛡️ Anti Spam
-
-May:
 
 * Submission cooldown
 * Message length limits
@@ -58,22 +50,22 @@ Para hindi gawing fucking garbage dump ng internet goblins ang website.
 
 ## 👨‍💻 Private Admin Dashboard
 
-May private dashboard para sa owner, **AKO. IKAW. FUCKING ME.**
+Private dashboard para sa owner, **AKO. FUCKING ME.**
 
 Makikita ang:
 
-* Messages
-* Date at time
-* Intro question answers
-* Attachments
-* Submitted links
-* Basic technical information
+* 💬 Messages
+* 🕐 Date and time
+* 🧠 Intro question answers
+* 📎 Attachments
+* 🔗 Submitted links
+* 💻 Basic technical information
 
-Pwede ring permanenteng mag delete ng messages. Useful para sa spam at general **internet bullshit**.
+Pwede ring permanently mag delete ng messages para sa spam at general **internet bullshit.**
 
 ## 🕵️ Technical Information
 
-Para sa security at anti spam, maaaring ma record:
+For security and anti spam, maaaring ma record:
 
 * IP address
 * Browser / User Agent
@@ -82,34 +74,13 @@ Para sa security at anti spam, maaaring ma record:
 
 Admin lang ang makakakita.
 
-**Hehe. Ako lang.**
+**Hehe, ako lang. Yes, akin na yung ip address nimo broski pero wla akong paki ngani kzi inde man ku hakir ba.**
 
 Kaya hindi nito kino claim na **100% anonymous**.
 
 Anonymous siya dahil walang account o direct identifying information na kailangan para makapag message.
 
-## 🔐 Security
-
-Backend includes:
-
-* PDO prepared statements
-* SQL injection protection
-* XSS protection
-* CSRF protection
-* Secure password hashing
-* Server side validation
-* Secure file upload validation
-* Admin authentication
-* Rate limiting
-
-## 📱 Responsive Design
-
-Designed para sa:
-
-* Desktop
-* Laptop
-* Tablet
-* Mobile
+Basically, **I TRIED NOT TO BUILD A FUCKING DISASTER. VERDAMMT.**
 
 ## 🛠️ Tech Stack
 
@@ -122,6 +93,6 @@ Designed para sa:
 * phpMyAdmin
 * InfinityFree
 
-**Anonymous shit, black and white, at buhay pa rin... for now.**
+**Anonymous shit, black and white, at buhay pa rin... FOR NOW.**
 
-**Пока живой, i shall jakol now. STOP READING ME**
+**Пока живой. ПИЗДЕЦ KNOWS WHAT HAPPENS TOMORROW.**
