@@ -8,7 +8,7 @@ Isang fucking **anonymous messaging website** kung saan pwedeng mag send ng mess
 
 Hindi tulad ng ibang mga bangkay na nabubulok sa GitHub cemetery, buhay pa ’to.
 
-CLICK ME: https://zacuia.gt.tc
+CLICK ME: https://notzacuia.likesyou.org
 
 🚨 IF YOUR ANTIVIRUS SAYS "DANGEROUS WEBSITE," DON'T PANIC. I'M NOT A HACKER, I'M JUST A DEVELOPER WITH QUESTIONABLE LIFE DECISIONS. ПИЗДЕЦ. 🚨
 
