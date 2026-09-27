@@ -1,98 +1,127 @@
-# 💬 My Anonymous Message Website Thingy
+# My Anonymous Message Website Thingy
 
-Isang fucking **anonymous messaging website** kung saan pwedeng mag send ng messages **SA AKIN AT SA AKIN LANG TALAGA** without accounts, login, username, or password.
+A fucking anonymous messaging website built with PHP, MySQL, HTML, CSS, and Vanilla JavaScript, made because apparently a normal contact form was not fucking enough. The idea is simple: people can open the site, survive the dramatic intro, answer some random questions, and send me a message without creating an account, logging in, or giving me their name or email.
 
-## 🟢 Project Status
+## Project Status
 
-**ACTIVE / STILL ALIVE** For now...
+ACTIVE / STILL ALIVE
 
-Hindi tulad ng ibang mga bangkay na nabubulok sa GitHub cemetery, buhay pa ’to.
+Still working, still online, and somehow still receiving anonymous bullshit.
 
-CLICK ME: https://notzacuia.likesyou.org
+## CLICK ME:
 
-🚨 IF YOUR ANTIVIRUS SAYS "DANGEROUS WEBSITE," DON'T PANIC. I'M NOT A HACKER, I'M JUST A DEVELOPER WITH QUESTIONABLE LIFE DECISIONS. ПИЗДЕЦ. 🚨
+https://notzacuia.likesyou.org
 
-## 🧠 How This Thingy Works
+## WARNING
 
-**Blank screen → dramatic intro → random questions → message form → anonymous shit**
+Your antivirus or browser security might randomly decide that this website looks suspicious because apparently anonymous messaging websites are not allowed to exist peacefully.
 
-Simple. Weird. Effective. **БЛЯТЬ.**
+The website itself is not trying to do anything malicious. It is simply a personal anonymous messaging project with a PHP backend and database.
 
-## 💬 Anonymous Messaging
+If your browser starts screaming, check the repository and the website domain before doing anything else. Don't blindly ignore security warnings just because some random developer told you to.
 
-No account.
-No login.
-No username.
-No email.
+## What This Shit Can Do
 
-Type whatever the fuck you want, then **SEND. (I'll read your message on my free time)**
+### Anonymous Messaging
 
-## 📎 Attachments
+No account. No login. No username. No email.
 
-Pwede mag attach ng:
+Just open the website, answer the random intro questions, type whatever the fuck you want, and send the message.
 
-* 🖼️ Images
-* 🎥 Videos
-* 🔗 Links
+Basically:
 
-May validation at limits para hindi maging **ABSOLUTE GOVNO** ang uploads.
+Anonymous Person → Message → Me
 
-## 🛡️ Anti Spam
+Simple shit.
 
-* Submission cooldown
-* Message length limits
-* File size limits
-* Duplicate detection
-* Basic bot protection
-* Server side validation
+### Attachments
 
-Para hindi gawing fucking garbage dump ng internet goblins ang website.
+Messages can include:
 
-## 👨‍💻 Private Admin Dashboard
+- Images
+- Videos
+- Links
 
-Private dashboard para sa owner, **AKO. FUCKING ME.**
+Uploads have validation and size limits so the website does not become a fucking garbage dump full of random files.
 
-Makikita ang:
+### Anti Spam
 
-* 💬 Messages
-* 🕐 Date and time
-* 🧠 Intro question answers
-* 📎 Attachments
-* 🔗 Submitted links
-* 💻 Basic technical information
+The system includes several basic protections to stop people from abusing the message form:
 
-Pwede ring permanently mag delete ng messages para sa spam at general **internet bullshit.**
+- Submission cooldown
+- Message length limits
+- File size limits
+- Duplicate detection
+- Basic bot protection
+- Server side validation
 
-## 🕵️ Technical Information
+Because apparently giving the internet a textbox requires its own fucking security department.
 
-For security and anti spam, maaaring ma record:
+### Private Admin Dashboard
 
-* IP address
-* Browser / User Agent
-* Requested page
-* Time of request
+The website also has a private admin dashboard where I can manage the messages I receive.
 
-Admin lang ang makakakita.
+It includes information such as:
 
-**Hehe, ako lang. Yes, akin na yung ip address nimo broski pero wla akong paki ngani kzi inde man ku hakir ba.**
+- Messages
+- Submission date and time
+- Intro question answers
+- Attachments
+- Submitted links
+- Basic technical information
 
-Kaya hindi nito kino claim na **100% anonymous**.
+Messages can also be permanently deleted when they are spam or just general internet bullshit that nobody asked for.
 
-Anonymous siya dahil walang account o direct identifying information na kailangan para makapag message.
+### Technical Information
 
-Basically, **I TRIED NOT TO BUILD A FUCKING DISASTER. VERDAMMT.**
+For security and anti spam purposes, the system may record basic technical information such as:
 
-## 🛠️ Tech Stack
+- IP address
+- Browser / User Agent
+- Requested page
+- Request time
 
-* HTML5
-* CSS3
-* Vanilla JavaScript
-* PHP
-* MySQL
-* XAMPP
-* phpMyAdmin
-* InfinityFree
+This information is only available through the admin side.
 
-**Anonymous shit, black and white, at buhay pa rin... FOR NOW.**
+The website does not claim to provide 100% anonymity. The sender does not need an account or direct identifying information, but basic technical information can still exist on the server for moderation and abuse prevention.
 
-**Пока живой. ПИЗДЕЦ KNOWS WHAT HAPPENS TOMORROW.**
+Anonymous messaging, not fucking witness protection.
+
+## How This Thing Works
+
+Blank screen → dramatic intro → random questions → message form → anonymous message
+
+That's basically the entire operation.
+
+The frontend handles the user experience, PHP handles the backend logic, and MySQL stores the actual message data.
+
+YOU → WEBSITE → PHP → MYSQL → ME
+
+Somehow this became an entire fucking system.
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- PHP
+- MySQL
+- XAMPP
+- phpMyAdmin
+- InfinityFree
+
+No giant framework. No unnecessary dependencies. No 900 layers of abstraction just to submit a message.
+
+Just PHP, MySQL, JavaScript, and questionable life decisions.
+
+## About
+
+I made this because I can and why not?
+
+The project started as a simple anonymous message website and somehow turned into a proper system with attachments, anti spam protection, technical information, database handling, and a private admin dashboard.
+
+Basically, I wanted people to have a place where they can say whatever they want without having to directly attach their name to it.
+
+No account. No introduction. Just type the shit and send it.
+
+Пока живой.
