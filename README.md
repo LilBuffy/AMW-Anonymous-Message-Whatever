@@ -2,23 +2,13 @@
 
 A fucking anonymous messaging website built with PHP, MySQL, HTML, CSS, and Vanilla JavaScript, made because apparently a normal contact form was not fucking enough. The idea is simple: people can open the site, survive the dramatic intro, answer some random questions, and send me a message without creating an account, logging in, or giving me their name or email.
 
-## Project Status
-
-ACTIVE / STILL ALIVE
+**Project Status:** ACTIVE / STILL ALIVE
 
 Still working, still online, and somehow still receiving anonymous bullshit.
 
-## CLICK ME:
+**CLICK ME:** https://notzacuia.likesyou.org
 
-https://notzacuia.likesyou.org
-
-## WARNING
-
-Your antivirus or browser security might randomly decide that this website looks suspicious because apparently anonymous messaging websites are not allowed to exist peacefully.
-
-The website itself is not trying to do anything malicious. It is simply a personal anonymous messaging project with a PHP backend and database.
-
-If your browser starts screaming, check the repository and the website domain before doing anything else. Don't blindly ignore security warnings just because some random developer told you to.
+**WARNING:** Your antivirus or browser security might randomly decide na mukhang dangerous website ito. Hindi ako fucking hacker, relax. Check the source and repository if you're unsure instead of blindly trusting random shit from the internet.
 
 ## What This Shit Can Do
 
