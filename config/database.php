@@ -1,7 +1,7 @@
 <?php
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'nigatron');
+define('DB_NAME', 'FUCKYOU');
 define('DB_USER', 'root');
 define('DB_PASSWORD', '');
 
